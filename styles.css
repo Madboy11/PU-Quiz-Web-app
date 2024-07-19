@@ -31,7 +31,8 @@ body {
     margin-top: 10px;
     cursor: pointer;
     border-radius: 4px;
-    transition: background-color 0.3s ease; border: 3px solid #0a9396;
+    transition: background-color 0.3s ease; 
+    border: 3px solid #0a9396;
   }
   
   button:hover {
@@ -77,11 +78,3 @@ body {
     background-color: #040000;
     color: #94d2bd;
   }
-#foot{
-  background-image: url('\\img\\20240719_151755.png');
-  padding: 100px;
-  height:auto;
-  width: auto;
-  margin:  15px auto;
-  border-radius: 10px;
-}
